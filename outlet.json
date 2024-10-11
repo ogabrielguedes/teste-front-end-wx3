@@ -1,0 +1,43 @@
+[
+    {
+      "id": 1,
+      "nome": "lorem ipsum",
+      "descricao": "Para quem quer relaxar",
+      "imagem": "produtos/produto1.jpg",
+      "link": "/produtos/lingerie",
+      "avaliacao": 4.5,
+      "preco": 89.90,
+      "formasPagamento": ["Cartão de crédito", "Boleto", "Pix"]
+    },
+    {
+      "id": 2,
+      "nome": "lorem ipsum",
+      "descricao": "Praticidade no seu dia",
+      "imagem": "produtos/produto2.jpg",
+      "link": "/produtos/linha-noite",
+      "avaliacao": 5.0,
+      "preco": 79.90,
+      "formasPagamento": ["Cartão de crédito", "Débito", "Boleto"]
+    },
+    {
+      "id": 3,
+      "nome": "lorem ipsum",
+      "descricao": "Ideal para o dia a dia",
+      "imagem": "produtos/produto3.jpg",
+      "link": "/produtos/sutias",
+      "avaliacao": 5.0,
+      "preco": 49.90,
+      "formasPagamento": ["Cartão de crédito", "Pix"]
+    },
+    {
+        "id": 4,
+        "nome": "lorem ipsum",
+        "descricao": "Ideal para o dia a dia",
+        "imagem": "produtos/produto4.jpg",
+        "link": "/produtos/sutias",
+        "avaliacao": 5.0,
+        "preco": 49.90,
+        "formasPagamento": ["Cartão de crédito", "Pix"]
+      }
+  ]
+  
